@@ -1,19 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+(NOT FINISHED)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+This is a game where the enemy(computer) gets a random number between 20 and 30. You have 3 number slots which you can get a number between 1 and 10. The objective is to pass the enemy number by adding these 3 numbers you get randomly. You have 3 chance to get a random number and before your chance gets to zero you can hold the number you get. It is like rolling a dice. You can roll the dice 3 times and if you like the number you can keep it without rolling the dice again. Then you go to 2nd number which you do the same, get a random number, hold it if you like it or try your luck again. 
+![Ekran görüntüsü 2024-12-27 231231](https://github.com/user-attachments/assets/661f98ba-f62d-4faf-99fc-4aa15212d705)
+![Ekran görüntüsü 2024-12-27 231224](https://github.com/user-attachments/assets/7be60e6a-bd86-4099-a01c-9f83be5aedda)

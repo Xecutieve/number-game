@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Play", serif;;
+    text-align: center;
+    color: white;
+}
+
+#confirm-name {
+    background-color: rgba(0, 255, 34, 0.3);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-bottom: 8px;
+    color: aliceblue;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+#name-input {
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#hero {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#game-log-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#game-log {
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 400px;
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+.name-style {
+    height: 100%;
+}
+
+h1 {
+    font-size: 35px;
+}
+#ran-num-container {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+
+.num-styling {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+#container {
+    margin-top: 30px;
+    margin-bottom: 30PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-style {
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-bottom: 8px;
+    color: aliceblue;
+    padding: 10px 10px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.center {
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 40px;
+    width: 50px;
+    margin-top: 20px;
+}
+
+.align-center {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
